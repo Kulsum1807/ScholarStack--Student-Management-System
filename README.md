@@ -325,7 +325,7 @@ npm start
 
 ## 🌐 **Live Demo**
 
-- **Backend (Render Hosted)**: []()
+- **Backend (Render Hosted)**: [https://scholarstack-student-management-system-kukg.onrender.com](https://scholarstack-student-management-system-kukg.onrender.com)
   _(This is the live API endpoint — Routes can be directly tested in Postman using this base URL)_
 
 ---
